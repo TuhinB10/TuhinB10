@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tuhin and I'm a web dev enthusiast, from India </h2>
+<h2 align="left">Hi 👋! My name is Tuhin and I'm a developer(trying my best lol), from India </h2>
 
 ###
 
